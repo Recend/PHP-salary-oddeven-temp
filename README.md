@@ -5,6 +5,7 @@ Programuotojui moka a Eurų atlyginimą. Darbdavys pažadėjo kiekvieną mėnes�
 
 - 2.Užduotis
 Sukurkite tinklapį kuris suskaičiuotų, kiek duotas skaičius a turi lyginių ir nelyginių skaitmenų. Kai a = 63258, tai lyginių 3, nelyginių 2
+
 ![oddeven](https://user-images.githubusercontent.com/106965421/186417285-a3bce6ec-3f62-4937-adfa-2994107f0082.png)
 
 - 3.Užduotis
